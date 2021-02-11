@@ -1,0 +1,21 @@
+.container {
+  width: 1000px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.btn {
+  display: block;
+}
+
+.all__buttons {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.counter {
+  margin: 0 20px 0 20px;
+}
